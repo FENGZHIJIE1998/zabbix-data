@@ -4,4 +4,5 @@
 
 详细介绍请戳博客 https://blog.csdn.net/weixin_42236404/article/details/105726075
 
+前端代码：https://github.com/FENGZHIJIE1998/zabbix-data-vue
 
