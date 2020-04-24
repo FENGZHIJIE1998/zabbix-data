@@ -57,7 +57,7 @@ swagger:
 zabbix:
   username: dazhi
   password: 123456
-  url: http://zabbix.itaem.com/api_jsonrpc.php
+  url: http://zabbix.itaem.top/api_jsonrpc.php
 # 文件虚拟路径配置配置
 file:
   accessPath: /excel/**
