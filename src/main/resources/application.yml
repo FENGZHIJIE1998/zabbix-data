@@ -19,9 +19,9 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
       driver-class-name: com.mysql.jdbc.Driver
-      url: jdbc:mysql://192.168.1.249:3306/zabbix_data?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=CTT
+      url: jdbc:mysql://localhost:3306/zabbix_data?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=CTT
       username: root
-      password: 123456
+      password: 123
       initial-size: 10
       max-active: 100
       min-idle: 10
