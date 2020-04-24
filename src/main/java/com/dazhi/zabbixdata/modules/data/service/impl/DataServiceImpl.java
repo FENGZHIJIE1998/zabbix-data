@@ -51,7 +51,7 @@ public class DataServiceImpl implements DataService {
     private final ItemNameMappingDao itemNameMappingDao;
 
 
-    public DataServiceImpl(ItemNameMappingDao itemNameMappingDao, ExcelDao excelDao) {
+    public DataServiceImpl(ItemNameMappingDao itemNameMappingDao) {
         this.itemNameMappingDao = itemNameMappingDao;
     }
 
